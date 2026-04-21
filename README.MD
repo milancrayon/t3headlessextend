@@ -93,9 +93,9 @@ clone package https://github.com/milancrayon/t3headless-frontend
 
 
 3. Connect TYPO3
-Set API_LICENSE_KEY in config.js
-For setup use command : "yarn setup" / "npm setup"
-For Theme change :  "yarn themebuild" / "npm themebuild"
+- Set API_LICENSE_KEY in config.js
+- For setup use command : "yarn setup" / "npm setup"
+- For Theme change :  "yarn themebuild" / "npm themebuild"
 
 
 4. Start Building
