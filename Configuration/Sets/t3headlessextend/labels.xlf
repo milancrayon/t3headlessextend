@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:t3headlessextend/Configuration/Sets/t3headlessextend/labels.xlf"  product-name="t3headlessextend">
+    <header/>
+    <body>
+      <trans-unit id="label">
+        <source>T3theme Extend</source>
+      </trans-unit> 
+    </body>
+  </file>
+</xliff>

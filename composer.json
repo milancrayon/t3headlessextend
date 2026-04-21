@@ -1,0 +1,21 @@
+{
+    "name": "t3element/t3headlessextend",
+    "type": "typo3-cms-extension",
+    "authors": [
+        {
+            "name": "Milan Pandya",
+            "email": "info@t3headless.com"
+        }
+    ],
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Crayon\\T3headlessextend\\": "Classes"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "t3headlessextend"
+        }
+    }
+}

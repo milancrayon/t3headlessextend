@@ -1,0 +1,7 @@
+<strong>TEST MAINNNN</strong>
+
+{title}
+
+<f:for each="{markers}" as="val">
+{val.key}: {val.val}
+</f:for>

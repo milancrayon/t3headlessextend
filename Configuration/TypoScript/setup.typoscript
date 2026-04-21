@@ -1,0 +1,9 @@
+page = PAGE
+page {  
+}   
+@import 'EXT:t3headlessextend/Configuration/TypoScript/Elements/'
+config {
+  disableAllHeaderCode = 1
+  noPageTitle = 1
+  disablePrefixComment = 1
+}

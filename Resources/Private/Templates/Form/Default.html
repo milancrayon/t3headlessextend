@@ -1,0 +1,13 @@
+<h1>{title}</h1>
+<table>
+    <f:for each="{markers}" as="val">
+        <tr>
+            <td style="min-width:150px;font-weight:700;">
+                {val.key}:
+            </td>
+            <td>
+                {val.val}
+            </td>
+        </tr>
+    </f:for>
+</table>
