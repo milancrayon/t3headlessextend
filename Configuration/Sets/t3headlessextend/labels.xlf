@@ -4,7 +4,7 @@
     <header/>
     <body>
       <trans-unit id="label">
-        <source>T3theme Extend</source>
+        <source>T3headless Extend</source>
       </trans-unit> 
     </body>
   </file>
